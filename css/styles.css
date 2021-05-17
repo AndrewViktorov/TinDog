@@ -143,3 +143,15 @@ p {
  .pricing-column {
      padding: 4% 3%;
  }
+
+ @media (max-width: 1020px) {
+
+    #title {
+        text-align: center;
+    }
+
+     .title-image {
+         position: static;
+         transform: rotate(0);
+     }
+ }

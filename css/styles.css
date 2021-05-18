@@ -27,9 +27,18 @@ p {
     line-height: 1.5;
 }
 
-#title {
+/* Sections */
+.colored-section {
     background-color: #ff4c68;
     color: #fff;
+}
+
+.white-section {
+    background-color: #FFF;
+}
+
+#title {
+    
 }
 
 
@@ -86,7 +95,7 @@ p {
 
 #features {
     padding: 7% 15%;
-    background-color: #FFF;
+    
     position: relative;
     z-index: 1;
 }
@@ -114,7 +123,6 @@ p {
  #testimonials {
      text-align: center;
      background-color: #ef8172;
-     color: #fff;
  }
 
  .testimonial-text {
